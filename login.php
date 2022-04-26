@@ -66,8 +66,8 @@ session_start();
     </section>
     <footer class="page-footer font-small blue">
 
-      <div class="footer-copyright text-center py-3">© 2018 Copyright:
-        <a href="">shubhamb756@gmail.com</a>
+      <div class="footer-copyright text-center py-3">© 2022 Copyright:
+        <a href="">suard & sagnier</a>
       </div>
 
     </footer>
